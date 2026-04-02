@@ -1,1 +1,1 @@
-
+First release of Professor Braff's Max for Live (M4L) patches for Ableton Live, implementing the General Theory of Rhythm computationally. These devices allow musicians to apply microtime phrasing (groove) to MIDI and audio (LFO) in real time. Implements concepts from: Braff, M. (2015). Towards a General Theory of Rhythm. Zenodo. https://doi.org/10.5281/zenodo.19386788
