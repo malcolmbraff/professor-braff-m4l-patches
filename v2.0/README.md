@@ -1,3 +1,15 @@
+Second major release — March 2, 2024
+
+Five devices:
+- MASTER: controls all patches, tap pattern, live MIDI recognition
+- STEPS: phrased MIDI clip playback
+- ARP: phrased arpeggiator
+- SHAPER: phrased control signal drawing
+- LFO: phrased LFO signals
+
+Original release date: March 2, 2024
+DOI: https://doi.org/10.5281/zenodo.19386788 (theoretical framework)
+
 Midi Devices
 
 1. Professor Braff MASTER is a M4L midi effect that allows you control all Professor patches present in your session at once. It communicates with the other patches using 4 different and independent channels of communication. Last but not least it has a tap pattern feature and can listen live to incoming midi and guess your pattern and morph values.
